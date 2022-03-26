@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **EMAIL_ID**
+- 📫 How to reach me **anzilparviz03@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
